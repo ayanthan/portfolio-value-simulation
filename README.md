@@ -1,7 +1,9 @@
 # Portfolio Value Simulation
 
 ## How to run it
-python3.12.exe portfolio_main.py
+```bash
+ python3.12.exe portfolio_main.py
+ ```
 
 Remember to change number of simulation and you have different dataset to test.
 
