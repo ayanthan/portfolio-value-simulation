@@ -1,0 +1,4 @@
+Time used: 2.5911 secEquity Separate Portfolios : Mean = -12.057496609601728, Var= 495.82251980669287, Max = 0.0, Min = -81.4916152070407, 1% Quantile: -81.18264467359005, 5% Quantile: -61.55044330096341, frequency: 0.68
+Equity Single Portfolio : Mean = -12.514769855638024, Var= 512.3318185641598, Max = 0.0, Min = -81.4916152070407, 1% Quantile: -81.18264467359005, 5% Quantile: -61.68381105706188, frequency: 0.68
+Buffer Separate Portfolios : Mean = 16360.722421059387, Var= 10074468375.351315, Max = 771529.0207947966, Min = 0.0, 1% Quantile: 0.0, 5% Quantile: 0.0, frequency: 0.24
+Buffer Single Portfolio : Mean = 4428736.14162301, Var= 1018721768130979.0, Max = 293227921.53077066, Min = 0.0, 1% Quantile: 0.0, 5% Quantile: 0.0, frequency: 0.24
