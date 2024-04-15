@@ -1,7 +1,7 @@
 # Portfolio Value Simulation
 
 ## How to run it
-```bash
+```
  python3.12.exe portfolio_main.py
  ```
 
