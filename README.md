@@ -1,4 +1,4 @@
-# portfolio-value-simulation
+# Portfolio Value Simulation
 
 ## How to run it
 python3.12.exe portfolio_main.py
